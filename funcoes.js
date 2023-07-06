@@ -10,7 +10,7 @@ function div(x,y) {
     return x/y
 }
 
-function potencia(x1,x2){
+function birula(x1,x2){
     return x1**x2
 }
 
