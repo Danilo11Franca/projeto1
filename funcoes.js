@@ -13,3 +13,8 @@ function div(x,y) {
 function raiz(x1,x2){
     return x1**x2
 }
+
+function subtracao(x1,x2){
+    return x1 - x2
+
+}
